@@ -1,0 +1,17 @@
+# Go
+/bin/
+/pkg/
+/vendor/
+*.exe
+*.log
+*.test
+*.out
+*.swp
+*.tmp
+*.bak
+
+# Docker
+*.tar
+*.container
+*.image
+docker-compose.override.yml
